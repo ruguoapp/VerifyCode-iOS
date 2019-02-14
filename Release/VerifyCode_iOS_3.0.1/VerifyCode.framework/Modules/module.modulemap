@@ -1,5 +1,5 @@
 framework module VerifyCode {
-  umbrella header "VerifyCode.h"
+  umbrella header "NTESVerifyCodeManager.h"
 
   export *
   module * { export * }
